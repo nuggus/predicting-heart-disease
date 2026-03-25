@@ -104,5 +104,4 @@ The baseline Logistic Regression model significantly exceeded the target ROC-AUC
 ##### Contact and Further Information
 
 **Viswanath Nuggu**
-Email: viswanath_nuggu@intuit.com
 Dataset: [Kaggle Playground Series S6E2](https://www.kaggle.com/competitions/playground-series-s6e2/overview)
