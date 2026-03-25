@@ -101,6 +101,9 @@ The baseline Logistic Regression model significantly exceeded the target ROC-AUC
 
 ---
 
+#### Note
+- training data is zipped under [data/train.csv.zip](./data/train.csv.zip)
+  
 ##### Contact and Further Information
 
 **Viswanath Nuggu**
