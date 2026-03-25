@@ -1,7 +1,6 @@
 # Predicting Heart Disease Using Clinical and Diagnostic Data
 
 **Author:** Viswanath Nuggu
-**Email:** viswanath_nuggu@intuit.com
 **Date:** March 2026
 
 ---
